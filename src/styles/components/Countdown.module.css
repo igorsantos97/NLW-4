@@ -71,4 +71,9 @@
   background: var(--white);
   color: var(--text);
   cursor: not-allowed;
+  border-bottom: solid 4px var(--green);
+}
+
+.countdownButton:disabled img {
+  margin-left: 16px;
 }
