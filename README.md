@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 💻 Projeto
@@ -18,7 +18,7 @@ O MoveIt foi um aplicativo web contruído com o foco de ajudar as pessoas que pa
 O conteúdo abordado foi em react hooks (estado, efeito, contexto), fluxo de API, SPA, SSR, SSG e dentre outos.
 
 <div align="center">
-  <img alt="Frontend-Web" src="./public/theme-white.png" width="100%">
+  <img alt="print img" src="./docs/theme-white.png" width="100%">
 </div>
 
 ## :rocket: Tecnologias
